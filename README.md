@@ -14,7 +14,7 @@
 
 ### Usage
 
-1. Please download our pretrained model at [Google Drive](https://drive.google.com/open?id=1HhHftSK8FPSYTBKn1AcrXrx-4HAyqEv5).   
+1. Please download our pretrained model at [Google Drive](#).   
    Put this model in `./models/` and `./reimg/`.
 
 2. Run:
